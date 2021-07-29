@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Javascript-Projects/static/css/main.ce01b03a.chunk.css",
+    "main.js": "/React-Javascript-Projects/static/js/main.ee876d09.chunk.js",
+    "main.js.map": "/React-Javascript-Projects/static/js/main.ee876d09.chunk.js.map",
+    "runtime-main.js": "/React-Javascript-Projects/static/js/runtime-main.3b41b0f7.js",
+    "runtime-main.js.map": "/React-Javascript-Projects/static/js/runtime-main.3b41b0f7.js.map",
+    "static/js/2.7d3d2345.chunk.js": "/React-Javascript-Projects/static/js/2.7d3d2345.chunk.js",
+    "static/js/2.7d3d2345.chunk.js.map": "/React-Javascript-Projects/static/js/2.7d3d2345.chunk.js.map",
+    "static/js/3.6d0023e9.chunk.js": "/React-Javascript-Projects/static/js/3.6d0023e9.chunk.js",
+    "static/js/3.6d0023e9.chunk.js.map": "/React-Javascript-Projects/static/js/3.6d0023e9.chunk.js.map",
+    "index.html": "/React-Javascript-Projects/index.html",
+    "static/css/main.ce01b03a.chunk.css.map": "/React-Javascript-Projects/static/css/main.ce01b03a.chunk.css.map",
+    "static/js/2.7d3d2345.chunk.js.LICENSE.txt": "/React-Javascript-Projects/static/js/2.7d3d2345.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Javascript-Projects/static/media/warm-bg.d27d8da8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b41b0f7.js",
+    "static/js/2.7d3d2345.chunk.js",
+    "static/css/main.ce01b03a.chunk.css",
+    "static/js/main.ee876d09.chunk.js"
+  ]
+}
